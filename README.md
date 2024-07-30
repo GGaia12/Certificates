@@ -3,11 +3,13 @@
 My certificates 
 
 CCNA1 Cisco 
-<code><img alt="badge" width="42" src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" /></code>
+<code><img alt="badge" width="45" src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" /></code>
 <br>
 https://www.credly.com/badges/f244b617-1d08-4a8c-9cca-b60b94a231e7/linked_in_profile
 
 Cybersecurity Essentials Cisco
+<code><img alt="badge" width="45" src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"/></code>
+<br>
 https://www.credly.com/badges/20bcb6a6-ef57-4e15-aac7-8334bbc5729b/linked_in_profile
 
 Cybersecurtity FIAP
