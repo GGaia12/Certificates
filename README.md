@@ -2,8 +2,9 @@
  
 My certificates 
 
-CCNA1 Cisco
-<code><img alt="badge" width="32" src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" /></code>
+CCNA1 Cisco 
+<code><img alt="badge" width="42" src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" /></code>
+<br>
 https://www.credly.com/badges/f244b617-1d08-4a8c-9cca-b60b94a231e7/linked_in_profile
 
 Cybersecurity Essentials Cisco
